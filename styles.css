@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1rem;
+    padding: 2rem 1rem;
+    background-color: black;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+ul li {
+    padding: 1rem;
+
+}
